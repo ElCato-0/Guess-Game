@@ -1,0 +1,15 @@
+C:\Projects\Guess Game\Stage 1\C#\bin\Debug\net7.0\C#.exe
+C:\Projects\Guess Game\Stage 1\C#\bin\Debug\net7.0\C#.deps.json
+C:\Projects\Guess Game\Stage 1\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Projects\Guess Game\Stage 1\C#\bin\Debug\net7.0\C#.dll
+C:\Projects\Guess Game\Stage 1\C#\bin\Debug\net7.0\C#.pdb
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.dll
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.pdb
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Projects\Guess Game\Stage 1\C#\obj\Debug\net7.0\ref\C#.dll
